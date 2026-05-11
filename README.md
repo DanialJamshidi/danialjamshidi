@@ -152,22 +152,6 @@
   </tr>
 </table>
 
-
----
-
-## 📈 GitHub Statistics  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danialjamshidi&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=danialjamshidi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" alt="GitHub Stats" width="49%" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danialjamshidi&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
-</p>
-
-
 ---
 
 ## 🎓 Education & Certifications  
