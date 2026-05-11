@@ -134,7 +134,7 @@ const danial = {
   <tr>
     <td width="50%">
       <h3 align="center">
-        <a href="#" target="_blank">🎓 Dark Hub</a>
+        <a href="https://darkhub.ir/" target="_blank">🎓 Dark Hub</a>
       </h3>
       <p align="center">
         Educational Platform
@@ -152,7 +152,7 @@ const danial = {
     </td>
     <td width="50%">
       <h3 align="center">
-        <a href="#" target="_blank">🏗️ Saketzadeh Holding</a>
+        <a href="https://saketzadeh.ir/" target="_blank">🏗️ Saketzadeh Holding</a>
       </h3>
       <p align="center">
         Corporate Website
