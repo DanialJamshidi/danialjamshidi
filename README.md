@@ -166,7 +166,6 @@
 <p align="center">
   <a href="https://danialjamshidi.ir/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-danialjamshidi.ir-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:danialjamshidi8877@gmail.com"><img src="https://img.shields.io/badge/Gmail-danialjamshidi8877-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="tel:+989233233725"><img src="https://img.shields.io/badge/Phone-+98%20923%20323%2037%2025-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"></a>
   <a href="https://github.com/danialjamshidi" target="_blank"><img src="https://img.shields.io/badge/GitHub-danialjamshidi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
