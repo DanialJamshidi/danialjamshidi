@@ -14,14 +14,14 @@
   <a href="mailto:danialjamshidi8877@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/Danial8877" target="_blank">
-    <img src="https://img.shields.io/badge/🐙_GitHub-Danial8877-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/danialjamshidi" target="_blank">
+    <img src="https://img.shields.io/badge/🐙_GitHub-danialjamshidi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
   <br/>
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=Danial8877&label=👀_Profile_Views&color=3B82F6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=danialjamshidi&label=👀_Profile_Views&color=3B82F6&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -119,17 +119,17 @@ const danial = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Danial8877&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Danial8877&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danialjamshidi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=danialjamshidi&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial8877&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Danial8877&theme=tokyonight&utcOffset=3.5" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danialjamshidi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danialjamshidi&theme=tokyonight&utcOffset=3.5" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Danial8877&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=danialjamshidi&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </div>
 
 ---
@@ -182,7 +182,7 @@ const danial = {
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Danial8877&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=danialjamshidi&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies" />
 </div>
 
 ---
@@ -193,7 +193,7 @@ const danial = {
 
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-danialjamshidi.ir-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://danialjamshidi.ir/)
   [![Email](https://img.shields.io/badge/📧_Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danialjamshidi8877@gmail.com)
-  [![GitHub](https://img.shields.io/badge/🐙_GitHub-Danial8877-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danial8877)
+  [![GitHub](https://img.shields.io/badge/🐙_GitHub-danialjamshidi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danialjamshidi)
 
 </div>
 
