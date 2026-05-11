@@ -188,7 +188,6 @@ const danial = {
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-danialjamshidi.ir-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://danialjamshidi.ir/)
   [![Email](https://img.shields.io/badge/📧_Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danialjamshidi8877@gmail.com)
   [![GitHub](https://img.shields.io/badge/🐙_GitHub-Danial8877-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danial8877)
-  [![Phone](https://img.shields.io/badge/📞_Phone-+989233233725-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+989233233725)
 
 </div>
 
