@@ -2,7 +2,9 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,21,27&height=200&section=header&text=Danial%20Jamshidi&fontSize=42&fontAlignY=35&desc=Senior%20Web%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=55&animation=twinkling&fontColor=ffffff&descColor=cfd8dc" width="100%"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=🖥️+Clean+Code+Lover;⚡+3%2B+Years+of+Web+Development;🚀+React+%7C+Vue+%7C+Node+%7C+PHP;🌟+Building+Modern+Web+Applications" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=500&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Danial+Jamshidi;Senior+Web+Programmer;Full-Stack+Developer;Clean+Code+Lover" alt="Typing SVG" />
+</p>
 
   <br/>
 
