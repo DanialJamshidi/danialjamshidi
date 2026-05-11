@@ -166,7 +166,7 @@
 <p align="center">
   <a href="https://danialjamshidi.ir/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-danialjamshidi.ir-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:danialjamshidi8877@gmail.com"><img src="https://img.shields.io/badge/Gmail-danialjamshidi8877-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/danialjamshidi" target="_blank"><img src="https://img.shields.io/badge/GitHub-danialjamshidi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/Danial8877" target="_blank"><img src="https://img.shields.io/badge/GitHub-danialjamshidi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 
