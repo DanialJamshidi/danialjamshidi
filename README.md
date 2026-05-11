@@ -1,150 +1,47 @@
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,21,27&height=200&section=header&text=Danial%20Jamshidi&fontSize=42&fontAlignY=35&desc=Senior%20Web%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=55&animation=twinkling&fontColor=ffffff&descColor=cfd8dc" width="100%"/>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=500&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Danial+Jamshidi;Senior+Web+Programmer;Full-Stack+Developer;Clean+Code+Lover" alt="Typing SVG" />
 </p>
 
+  <br/>
 
+  <a href="https://danialjamshidi.ir/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-danialjamshidi.ir-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:danialjamshidi8877@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Danial8877" target="_blank">
+    <img src="https://img.shields.io/badge/🐙_GitHub-Danial8877-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-<p align="center">
-  <a href="https://danialjamshidi.ir/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:danialjamshidi8877@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="tel:+989233233725"><img src="https://img.shields.io/badge/Phone-Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"></a>
-</p>
+  <br/>
+  <br/>
 
+  <img src="https://komarev.com/ghpvc/?username=Danial8877&label=👀_Profile_Views&color=3B82F6&style=flat-square" alt="Profile Views" />
 
+</div>
 
----
+<br/>
+
+<table>
+<tr>
+<td width="60%">
 
 ## 🧑‍💻 About Me  
 
-<p align="center">
-  <img align="right" src="https://komarev.com/ghpvc/?username=danialjamshidi&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile Views" />
-</p>
+- 🔭 **Senior Web Programmer** with **3+ years** of professional experience
+- 💎 Expert in building **Full-Stack** applications with modern technologies
+- 🌱 Currently mastering **NestJS** & **Cloud-Native Architecture**
+- 🎯 2025 Goal: Launch a **SaaS product** & contribute to **open-source**
+- ⚡ I'm **17 years old** - proving passion beats age!
+- 📍 Based in **Tehran, Iran**
 
-
-
-- 🔭 I'm a **Senior Web Programmer** & **Full-Stack Developer** with over **3 years** of hands-on experience  
-- 💻 Building modern web applications with **React, Vue.js, Node.js & PHP**  
-- 🌱 Currently deepening my knowledge in **NestJS** and **Software Architecture**  
-- 🎯 2025 Goal: Contribute to open-source projects & launch my own SaaS product  
-- ⚡ Fun fact: I'm **17 years old**, proving age is just a number when it comes to passion for coding!
-
-<br/>
-
----
-
-## 🛠️ Tech Stack  
-
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS/SCSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
-  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js">
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA">
-</p>
-
-
-
-### Expertise Levels:
-
-- **HTML5** ▰▰▰▰▰▰▰▰▰▰ 100%  
-- **CSS3** ▰▰▰▰▰▰▰▰▰▰ 100%  
-- **Tailwind CSS** ▰▰▰▰▰▰▰▰▰▰ 90%  
-- **Bootstrap** ▰▰▰▰▰▰▰▰▰▰ 85%  
-- **SASS/SCSS** ▰▰▰▰▰▰▰▰▰▰ 90%  
-- **JavaScript** ▰▰▰▰▰▰▰▰▰▰ 95%  
-- **TypeScript** ▰▰▰▰▰▰▰▰▰▰ 90%  
-- **jQuery** ▰▰▰▰▰▰▰▰▰▰ 90%  
-- **Alpine.js** ▰▰▰▰▰▰▰▰▰▰ 85%  
-- **Vue.js** ▰▰▰▰▰▰▰▰▰▰ 90%  
-- **Nuxt.js** ▰▰▰▰▰▰▰▰▰▰ 95%  
-- **Vite** ▰▰▰▰▰▰▰▰▰▰ 95%  
-- **React.js** ▰▰▰▰▰▰▰▰▰▰ 90%  
-- **Next.js** ▰▰▰▰▰▰▰▰▰▰ 95%  
-  </details>
-
-<details>
-<summary><b>⚙️ Backend & Database</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-</p>
-
-
-
-### Expertise Levels:
-
-- **Node.js** ▰▰▰▰▰▰▱▱▱▱ 45%  
-- **NestJS** ▰▰▰▰▰▰▰▱▱▱ 75%  
-- **PHP** ▰▰▰▰▰▰▰▰▰▰ 95%  
-- **SQL** ▰▰▰▰▰▰▰▰▰▰ 85%  
-  </details>
-
-<details>
-<summary><b>🛠️ Tools & Workflow</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="RESTful API">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</p>
-
-
-
-### Expertise Levels:
-
-- **RESTful API Development** ▰▰▰▰▰▰▰▰▰▰ 85%  
-- **Postman** ▰▰▰▰▰▰▰▰▰▰ 90%  
-- **GIT / GitHub** ▰▰▰▰▰▰▰▰▰▰ 90%  
-- **Deployment & Hosting** ▰▰▰▰▰▰▰▰▰▰ 90%  
-- **Figma** ▰▰▰▰▰▰▱▱▱▱ 60%  
-  </details>
-
----
-
-## 🚀 Featured Projects  
-
-```markdown
-<img src="https://img.shields.io/badge/🌐_Portfolio-danialjamshidi.ir-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-```
-
-```
-<img src="https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-```
-
-```
-<img src="https://img.shields.io/badge/🐙_GitHub-Danial8877-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-```
-
-## 🧑‍💻 About Me
-
-*   🔭 **Senior Web Programmer** with **3+ years** of professional experience
-*   💎 Expert in building **Full-Stack** applications with modern technologies
-*   🌱 Currently mastering **NestJS** & **Cloud-Native Architecture**
-*   🎯 2025 Goal: Launch a **SaaS product** & contribute to **open-source**
-*   ⚡ I'm **17 years old** - proving passion beats age!
-*   📍 Based in **Tehran, Iran**
+</td>
+<td width="40%">
 
 ```javascript
 const danial = {
@@ -159,6 +56,10 @@ const danial = {
   passion: "Clean Code & Architecture"
 };
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -217,8 +118,19 @@ const danial = {
 
 ## 📊 GitHub Analytics
 
-<!-- Add your GitHub Stats Widget here -->
-<!-- Example: https://github-readme-stats.vercel.app/api?username=Danial8877&show_icons=true&theme=radical -->
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Danial8877&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Danial8877&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial8877&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Danial8877&theme=tokyonight&utcOffset=3.5" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Danial8877&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+</div>
 
 ---
 
@@ -265,58 +177,32 @@ const danial = {
   </tr>
 </table>
 
-
 ---
 
 ## 🏆 Achievements
 
-*   [Add your achievements here, e.g., Hackathon winner, Open source contributions, etc.]
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Danial8877&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+</div>
 
 ---
 
 ## 📬 Let's Connect
 
-_"First, solve the problem. Then, write the code." – John Johnson_
+<div align="center">
 
-```
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-danialjamshidi.ir-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://danialjamshidi.ir/)
+  [![Email](https://img.shields.io/badge/📧_Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danialjamshidi8877@gmail.com)
+  [![GitHub](https://img.shields.io/badge/🐙_GitHub-Danial8877-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danial8877)
 
-```
+</div>
 
+<div align="center">
+  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
+</div>
 
----
+<br/>
 
-## 🎓 Education & Certifications  
-
-- 📚 **11th Grade Student** - Imam Hassan Mojtaba High School, Tehran  
-- 📜 **PHP & MySQL Web Development** - Coursera (2024)
-
----
-
-## 📬 Let's Connect  
-
-<p align="center">
-  <a href="https://danialjamshidi.ir/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-danialjamshidi.ir-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:danialjamshidi8877@gmail.com"><img src="https://img.shields.io/badge/Gmail-danialjamshidi8877-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/Danial8877" target="_blank"><img src="https://img.shields.io/badge/GitHub-danialjamshidi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danialjamshidi&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies" />
-</p>
-
-
-
----
-
-<p align="center">
-  <i>“First, solve the problem. Then, write the code.” – John Johnson</i>
-</p>
-
-
-
-<p align="center">
-  Made with ❤️ by Danial Jamshidi © 2025
-</p>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,21,27&height=100&section=footer&text=Made%20with%20❤️%20by%20Danial%20Jamshidi&fontSize=14&fontAlignY=70&animation=twinkling&fontColor=ffffff" width="100%"/>
+</div>
