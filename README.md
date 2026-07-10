@@ -123,9 +123,9 @@ const danial = {
 
 ## 📊 GitHub Analytics
 
-<div align="inline">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=danialjamshidi&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danialjamshidi&theme=tokyonight&utcOffset=3.5" />
+<div align="center">
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=danialjamshidi&theme=tokyonight&hide_border=true" />
+  <img width="37%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danialjamshidi&theme=tokyonight&utcOffset=3.5" />
 </div>
 
 ## 🏆 Achievements
