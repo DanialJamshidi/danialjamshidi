@@ -32,9 +32,9 @@
 
 <br/>
 
-<table>
+<table align="center" width="90%">
 <tr>
-<td width="60%">
+<td >
 
 ## 🧑‍💻 About Me  
 
@@ -46,23 +46,7 @@
 - 📍 Based in **Tehran, Iran**
 
 </td>
-<td width="40%">
 
-```
-const danial = {
-  role: "Full-Stack Developer",
-  experience: "3+ Years",
-  stack: {
-    frontend: ["React", "Vue", "Nuxt", "Next"],
-    backend: ["PHP", "Node.js", "NestJS"],
-    database: ["MySQL", "SQL"],
-    tools: ["Docker", "Git", "Figma"]
-  },
-  passion: "Clean Code & Architecture"
-};
-```
-
-</td>
 </tr>
 </table>
 
