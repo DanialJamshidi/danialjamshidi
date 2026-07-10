@@ -68,57 +68,7 @@ const danial = {
 
 ---
 
-## 🛠️ Tech Stack & Expertise
-
-### 🎨 Frontend Development
-
-| Technology       | Expertise                                | Level             |
-| ---------------- | ---------------------------------------- | ----------------- |
-| **HTML5**        | Semantic structure & accessibility       | `▰▰▰▰▰▰▰▰▰▰ 100%` |
-| **CSS3**         | Animations, Flexbox, Grid                | `▰▰▰▰▰▰▰▰▰▰ 100%` |
-| **Tailwind CSS** | Utility-first rapid development          | `▰▰▰▰▰▰▰▰▱▱ 90%`  |
-| **Bootstrap**    | Responsive grid system & components      | `▰▰▰▰▰▰▰▰▱▱ 85%`  |
-| **SASS/SCSS**    | Advanced CSS preprocessing               | `▰▰▰▰▰▰▰▰▰▰ 90%`  |
-| **JavaScript**   | ES6+, Async/Await, DOM Manipulation      | `▰▰▰▰▰▰▰▰▰▰ 95%`  |
-| **TypeScript**   | Type-safe enterprise development         | `▰▰▰▰▰▰▰▰▰▰ 90%`  |
-| **jQuery**       | Legacy support & DOM manipulation        | `▰▰▰▰▰▰▰▰▰▰ 90%`  |
-| **Alpine.js**    | Lightweight reactive framework           | `▰▰▰▰▰▰▰▰▱▱ 85%`  |
-| **Vue.js**       | Component-based architecture             | `▰▰▰▰▰▰▰▰▰▰ 90%`  |
-| **Nuxt.js**      | SSR, Static Site Generation              | `▰▰▰▰▰▰▰▰▰▰ 95%`  |
-| **Vuetify**      | Material Design components               | `▰▰▰▰▱▱▱▱▱▱ 40%`  |
-| **Vite**         | Next-gen frontend tooling                | `▰▰▰▰▰▰▰▰▰▰ 95%`  |
-| **Webpack**      | Module bundling & optimization           | `▰▰▰▰▱▱▱▱▱▱ 40%`  |
-| **PWA**          | Offline support & native-like experience | `▰▰▰▰▰▰▰▰▱▱ 75%`  |
-| **React.js**     | Hooks, Context API, State Management     | `▰▰▰▰▰▰▰▰▰▰ 90%`  |
-| **Next.js**      | React framework for production           | `▰▰▰▰▰▰▰▰▰▰ 95%`  |
-
-### ⚙️ Backend Development
-
-| Technology  | Expertise                         | Level            |
-| ----------- | --------------------------------- | ---------------- |
-| **Node.js** | Event-driven architecture         | `▰▰▰▰▱▱▱▱▱▱ 45%` |
-| **NestJS**  | Scalable server-side applications | `▰▰▰▰▰▰▰▱▱▱ 75%` |
-| **PHP**     | Server-side scripting             | `▰▰▰▰▰▰▰▰▰▰ 95%` |
-| **Laravel** | MVC Framework                     | `▰▰▰▰▱▱▱▱▱▱ 0%`  |
-| **SQL**     | Database querying & design        | `▰▰▰▰▰▰▰▰▰▰ 85%` |
-
-### 🌐 CMS & Platforms
-
-| Technology    | Expertise         | Level           |
-| ------------- | ----------------- | --------------- |
-| **WordPress** | CMS Customization | `▰▰▰▰▱▱▱▱▱▱ 0%` |
-
-### 🛠️ Tools & Other Skills
-
-| Tool                     | Expertise                       | Level            |
-| ------------------------ | ------------------------------- | ---------------- |
-| **RESTful API**          | API Design & Development        | `▰▰▰▰▰▰▰▰▰▰ 85%` |
-| **Postman**              | API Testing & Documentation     | `▰▰▰▰▰▰▰▰▰▰ 90%` |
-| **Git & GitHub**         | Version control & collaboration | `▰▰▰▰▰▰▰▰▰▰ 90%` |
-| **Docker**               | Containerization basics         | `▰▰▰▰▱▱▱▱▱▱ 0%`  |
-| **Deployment & Hosting** | Basic server configuration      | `▰▰▰▰▰▰▰▰▰▰ 90%` |
-| **Figma**                | UI/UX design collaboration      | `▰▰▰▰▰▰▱▱▱▱ 60%` |
-
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" height="55" /> </p>
 ---
 
 ## 📊 GitHub Analytics
@@ -127,6 +77,7 @@ const danial = {
   <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=danialjamshidi&theme=tokyonight&hide_border=true" />
   <img width="37%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danialjamshidi&theme=tokyonight&utcOffset=3.5" />
 </div>
+
 
 ## 🏆 Achievements
 
